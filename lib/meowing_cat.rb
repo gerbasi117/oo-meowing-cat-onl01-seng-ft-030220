@@ -1,8 +1,7 @@
 class Cat
  def initialize
    meow
-
- def meow
+def meow
    puts "meow"
  end
  def name=(cats_name)
