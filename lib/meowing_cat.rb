@@ -3,12 +3,8 @@ class Cat
  def initialize
    meow
  end
- 
-def meow
-   puts "meow"
- end
-def meow=(cat_meows)
-   meow
+ def meow
+   puts "meow!"
  end
 end
  
