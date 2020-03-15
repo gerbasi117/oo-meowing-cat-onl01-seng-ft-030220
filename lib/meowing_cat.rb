@@ -7,5 +7,7 @@ class Cat
 def meow
    puts "meow"
  end
-
+def meow=(cat_meows)
+   meow
+ end
 end
