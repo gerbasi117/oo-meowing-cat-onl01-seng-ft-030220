@@ -1,5 +1,5 @@
 class Cat
  def initialize
-   puts "meow"
+   meow
  end
  end
