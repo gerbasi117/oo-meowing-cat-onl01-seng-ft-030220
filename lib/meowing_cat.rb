@@ -6,6 +6,7 @@ class Cat
    puts "meow"
  end
  def name=(cats_name)
+   name = (the_cats_name)
  end
  
  maru = Cat.new
