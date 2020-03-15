@@ -12,7 +12,3 @@ class Cat
    @name
  end
  
- maru = Cat.new
- maru.meow
-maru.name = "Maru"
- 
