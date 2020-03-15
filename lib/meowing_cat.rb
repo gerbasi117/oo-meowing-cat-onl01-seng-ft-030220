@@ -11,4 +11,3 @@ class Cat
  maru.meow
 maru.name = "Maru"
  
-maru.name
