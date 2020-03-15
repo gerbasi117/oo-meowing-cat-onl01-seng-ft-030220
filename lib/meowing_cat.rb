@@ -6,10 +6,10 @@ class Cat
    puts "meow"
  end
  def name=(cats_name)
-   name = (the_cats_name)
+   @name = (the_cats_name)
  end
  def name
-   name
+   @name
  end
  
  maru = Cat.new
